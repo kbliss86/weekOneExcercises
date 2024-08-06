@@ -1,0 +1,7 @@
+C:\Users\Kendall\bootcamp_c_sharp\weekOneExcercises\weekOneExcercises\bin\Debug\weekOneExcercises.exe.config
+C:\Users\Kendall\bootcamp_c_sharp\weekOneExcercises\weekOneExcercises\bin\Debug\weekOneExcercises.exe
+C:\Users\Kendall\bootcamp_c_sharp\weekOneExcercises\weekOneExcercises\bin\Debug\weekOneExcercises.pdb
+C:\Users\Kendall\bootcamp_c_sharp\weekOneExcercises\weekOneExcercises\obj\Debug\weekOneExcercises.csproj.AssemblyReference.cache
+C:\Users\Kendall\bootcamp_c_sharp\weekOneExcercises\weekOneExcercises\obj\Debug\weekOneExcercises.csproj.CoreCompileInputs.cache
+C:\Users\Kendall\bootcamp_c_sharp\weekOneExcercises\weekOneExcercises\obj\Debug\weekOneExcercises.exe
+C:\Users\Kendall\bootcamp_c_sharp\weekOneExcercises\weekOneExcercises\obj\Debug\weekOneExcercises.pdb
